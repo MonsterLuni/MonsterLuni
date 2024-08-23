@@ -6,9 +6,8 @@
 ## What i want to learn
  - Rust
  - C++
- - Angular
 
-## What i know
+## What i know (more or less)
  - Java
  - Php
  - JavaScript / TypeScript
