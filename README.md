@@ -1,11 +1,12 @@
 # MonsterLuni is here
 
 ## Currently learning
- - Go
+ - Rust
 
 ## What i want to learn
  - Rust
  - C++
+ - Go
 
 ## What i know (more or less)
  - Java
