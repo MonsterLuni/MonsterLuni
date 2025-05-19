@@ -1,19 +1,24 @@
 # MonsterLuni is here
 
-## Currently learning
- - Rust
+## Currently using
+ - Laravel
+ - Angular
 
 ## What i want to learn
- - Rust
  - C++
  - Go
 
-## What i know (more or less)
+## What I've already used
  - Java
+ - C#
+ - ASP.NET
+ - Rust
  - Php
  - JavaScript / TypeScript
  - CSS / SCSS
- - React Native
+ - Angular
+ - Laravel
+ 
 <!--
 **MonsterLuni/MonsterLuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
